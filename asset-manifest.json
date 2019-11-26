@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/clinicalskillsguide/static/css/main.1489a05b.chunk.css",
+    "main.js": "/clinicalskillsguide/static/js/main.a4018062.chunk.js",
+    "main.js.map": "/clinicalskillsguide/static/js/main.a4018062.chunk.js.map",
+    "runtime-main.js": "/clinicalskillsguide/static/js/runtime-main.ec1224b4.js",
+    "runtime-main.js.map": "/clinicalskillsguide/static/js/runtime-main.ec1224b4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/clinicalskillsguide/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0c59708c.chunk.js": "/clinicalskillsguide/static/js/2.0c59708c.chunk.js",
+    "static/js/2.0c59708c.chunk.js.map": "/clinicalskillsguide/static/js/2.0c59708c.chunk.js.map",
+    "index.html": "/clinicalskillsguide/index.html",
+    "precache-manifest.ec6853815b96d6144713268537c5b0e8.js": "/clinicalskillsguide/precache-manifest.ec6853815b96d6144713268537c5b0e8.js",
+    "service-worker.js": "/clinicalskillsguide/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/clinicalskillsguide/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1489a05b.chunk.css.map": "/clinicalskillsguide/static/css/main.1489a05b.chunk.css.map",
+    "static/media/ABG.jpg": "/clinicalskillsguide/static/media/ABG.dcdfdd01.jpg",
+    "static/media/ABGsyringe.jpeg": "/clinicalskillsguide/static/media/ABGsyringe.4ce2f2c1.jpeg",
+    "static/media/ABGtechnique.jpeg": "/clinicalskillsguide/static/media/ABGtechnique.ac2eb6e9.jpeg",
+    "static/media/AlcoholWipe.jpeg": "/clinicalskillsguide/static/media/AlcoholWipe.a4bc96cd.jpeg",
+    "static/media/AllEquipment.jpeg": "/clinicalskillsguide/static/media/AllEquipment.2e009b2c.jpeg",
+    "static/media/DisposableKidneyDish.jpeg": "/clinicalskillsguide/static/media/DisposableKidneyDish.19bef8e5.jpeg",
+    "static/media/LocalAnaesthetic.jpeg": "/clinicalskillsguide/static/media/LocalAnaesthetic.ba0f5fb9.jpeg",
+    "static/media/NasalProngs.jpeg": "/clinicalskillsguide/static/media/NasalProngs.2ddf51bf.jpeg",
+    "static/media/NonRebreatherMask.jpeg": "/clinicalskillsguide/static/media/NonRebreatherMask.fab5970f.jpeg",
+    "static/media/NonSterileGloves.jpeg": "/clinicalskillsguide/static/media/NonSterileGloves.b9bd66a3.jpeg",
+    "static/media/OxygenFlowRates.jpeg": "/clinicalskillsguide/static/media/OxygenFlowRates.72da2dfa.jpeg",
+    "static/media/PartialRebreatherMask.jpeg": "/clinicalskillsguide/static/media/PartialRebreatherMask.42331f25.jpeg",
+    "static/media/SeeAllEquipment.jpeg": "/clinicalskillsguide/static/media/SeeAllEquipment.03b3d79a.jpeg",
+    "static/media/SharpsBin.jpeg": "/clinicalskillsguide/static/media/SharpsBin.27e911be.jpeg",
+    "static/media/SimpleFaceMask.jpeg": "/clinicalskillsguide/static/media/SimpleFaceMask.5ad29877.jpeg",
+    "static/media/StickyDot.jpeg": "/clinicalskillsguide/static/media/StickyDot.1a71233e.jpeg",
+    "static/media/VenturiMask.jpeg": "/clinicalskillsguide/static/media/VenturiMask.67b070a0.jpeg",
+    "static/media/mask.jpg": "/clinicalskillsguide/static/media/mask.a6dd82be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1224b4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0c59708c.chunk.js",
+    "static/css/main.1489a05b.chunk.css",
+    "static/js/main.a4018062.chunk.js"
+  ]
+}
